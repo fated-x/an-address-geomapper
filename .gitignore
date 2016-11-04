@@ -35,3 +35,10 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# OS Specific
+.DS_Store
+
+# Custom Code Files
+config/keys.json
+config/databases.json
